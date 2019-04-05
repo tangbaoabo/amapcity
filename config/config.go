@@ -10,5 +10,5 @@ const (
 	//详细信息成功状态
 	InfoCodeSuccess = "10000"
 	MYSQL           = "mysql"
-	DataSourceName  = "root:tangyaya1996624*@/amap_district?charset=utf8"
+	DataSourceName  = "username:password@/amap_district?charset=utf8"
 )
